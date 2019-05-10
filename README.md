@@ -11,7 +11,7 @@ Estimated time is subject to variations due to small roadblocks and site compati
 | Section 2, 5: Thumbnails and Logo | 1 hour    | end of 5/14 |
 | Section 3: Map                    | 1 hour    | end of 5/15 |
 | Review ALL changes                | 2 hours   | end of 5/15 |
-| Project 1 Completes               |           | 5/17        |
+| Project 1 Completed               |           | 5/17        |
 
 ### Worklist
 
