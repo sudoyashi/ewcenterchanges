@@ -1,10 +1,25 @@
 # EWcenterchanges
 
-## Worklist
+## Timetable
+
+Estimated time is subject to variations due to small roadblocks and site compatibility issues. ETA is estimated based on previous projects done in a similar fashion. Changes will NOT be published until a received confirmation to publish is approved.
+
+| Task                              | Est. Time | ETA         |
+| --------------------------------- | --------- | ----------- |
+| Section 4: About Page             | 1 hour    | end of 5/10 |
+| Section 1: Weblog                 | 3 hours   | end of 5/13 |
+| Section 2, 5: Thumbnails and Logo | 1 hour    | end of 5/14 |
+| Section 3: Map                    | 1 hour    | end of 5/15 |
+| Review ALL changes                | 2 hours   | end of 5/15 |
+| Project 1 Completes               |           | 5/17        |
+
+### Worklist
 
 This page is to create an update page for anyone that is allowed to see this page, as this is a private repository. This page is solely for keeping progress. Tasks will be marked off when completed. Priority is NOT indicative of section number and will be adjusted according to urgency. **Asterisk*** indicates most recent working task.
 
-### Section 1: Weblog discussion section; 2 hours+ depending on solution implemented
+<hr />
+
+## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented
 
 - Create six discussion pages that link out from this page to separate Weblog pages
 - HTML Colmumn based work to create structure. No borders, embed through CSS style ID
