@@ -2,7 +2,7 @@
 
 Date Created: 5/9/2019
 
-Changes are listed in reverse chronological order, where the most recent changes are seen at the top. Justifications will be made for changes that were not explicitly listed in the agreement.
+Changes are listed in reverse chronological order, where the most recent changes are seen at the top. 
 
 <hr />
 
