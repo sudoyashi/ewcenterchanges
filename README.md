@@ -1,5 +1,9 @@
 # EWcenterchanges
 
+## Changes to Website
+
+Full details of the changes to the website can be found [here](https://github.com/sudoyashi/ewcenterchanges/changelog.mds)!
+
 ## Timetable
 
 Estimated time is subject to variations due to small roadblocks and site compatibility issues. ETA is estimated based on previous projects done in a similar fashion. Most changes will NOT be published until a received confirmation to publish is approved, unless noted as immediate changes.
@@ -16,10 +20,6 @@ Estimated time is subject to variations due to small roadblocks and site compati
 ### Worklist
 
 This page is to create an update page for anyone that is allowed to see this page, as this is a private repository. This page is solely for keeping progress. Tasks will be marked off when completed. Priority is NOT indicative of section number and will be adjusted according to urgency. **Asterisk*** indicates most recent working task.
-
-## Changes to Website
-
-Full details of the changes to the website can be found [here](https://github.com/sudoyashi/ewcenterchanges/changelog.mds).
 
 <hr />
 
