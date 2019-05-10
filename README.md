@@ -2,7 +2,7 @@
 
 ## Changes to Website
 
-Full details of the changes to the website can be found [here](https://github.com/sudoyashi/ewcenterchanges/changelog.md)!
+Full details of the changes to the website can be found [here](https://github.com/sudoyashi/ewcenterchanges/blob/master/changelog.md)!
 
 ## Timetable
 
