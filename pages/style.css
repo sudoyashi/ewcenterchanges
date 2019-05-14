@@ -5,18 +5,12 @@ May 13, 2019
 Draft of Weblog Table CSS
 
 */
-.header {  background-color: #ccc888;
-	
-	
-}
-.weblog-table {
-	display: block;
-	padding: 20px 10px;
-}
 
+
+/*
 .weblog-table th { width: 100% !important; 
 	}	
-.weblog-table td { width: 100% !important;
+/* .weblog-table td { width: 100% !important;
 				   text-align: center; }
 
 
