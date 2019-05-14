@@ -1,0 +1,45 @@
+/* 
+
+Joshua Domingo
+May 13, 2019
+Draft of Weblog Table CSS
+
+*/
+.header {  background-color: #ccc888;
+	
+	
+}
+.weblog-table {
+	display: block;
+	padding: 20px 10px;
+}
+
+.weblog-table th { width: 100% !important; 
+	}	
+.weblog-table td { width: 100% !important;
+				   text-align: center; }
+
+
+
+
+
+
+/* Responsive
+==================================== 
+@media all and (max-width: @breakpoint) {
+  .weblog-table {
+    display: block;
+    > .weblog-title { width: 100% !important; }
+    > .weblog-text { margin-bottom: 1em; }
+  }
+}
+
+// Non-Flex modernizer fallback
+.no-flexbox .Rtable {
+  display: block;
+  > .Rtable-cell { width: 100%; }
+  > .Rtable-cell--foot { margin-bottom: 1em; }
+}
+
+
+*/
