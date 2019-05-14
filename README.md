@@ -11,10 +11,10 @@ Estimated time is subject to variations due to small roadblocks and site compati
 | Task                              | Est. Time | ETA         |
 | --------------------------------- | --------- | ----------- |
 | Section 4: About Page             | 1 hour    | end of 5/10 |
-| Section 1: Weblog                 | 3 hours   | end of 5/13 |
-| Section 2, 5: Thumbnails and Logo | 1 hour    | end of 5/14 |
-| Section 3: Map                    | 1 hour    | end of 5/15 |
-| Review ALL changes                | 2 hours   | end of 5/15 |
+| Section 1: Weblog                 | 3 hours   | end of 5/14\* |
+| Section 2, 5: Thumbnails and Logo | 1 hour    | end of 5/15 |
+| Section 3: Map                    | 1 hour    | end of 5/16 |
+| Review ALL changes                | 2 hours   | end of 5/16 |
 | Project 1 Completed               |           | 5/17        |
 
 ### Worklist
