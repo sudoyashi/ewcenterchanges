@@ -72,3 +72,5 @@ Log of work completed:
 
 - 5/8/2019 // Worklist Created, letter of agreement submitted
 - 5/9/2019 // Worklist completed, looking for solutions on Section 1
+- 5/10/2019 // Edited footer with phone and email
+- 5/12/2019 // Drafting for Weblog columns
