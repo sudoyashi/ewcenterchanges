@@ -5,6 +5,7 @@ Date Created: 5/9/2019
 Changes are listed in reverse chronological order, where the most recent changes are seen at the top.
 
 <hr />
+
 ## 5/13/2019
 
 7:00pm
@@ -17,7 +18,7 @@ Changes are listed in reverse chronological order, where the most recent changes
 
 
 ## 5/11/2019
--modifications to the layout of contact email and phone number
+- Modifications to the layout of contact email and phone number
 ## 5/10/2019
 - Added contact email to the footer of all pages on p4y-th* website
 ## 5/9/2019
