@@ -5,6 +5,12 @@ Date Created: 5/9/2019
 Changes are listed in reverse chronological order, where the most recent changes are seen at the top.
 
 <hr />
+## 5/14/2019
+
+9:28pm
+- *Marking Section 1 complete, for now* Implemented proposed changes for six discussion pages indicated in **Section 1.** 
+- Table with a 3x2 matrix created, responsive and tested ONLY on desktop with different screen sizes. Will test again with different screen sizes on 5/16
+- Created 6 dummy pages to link to each specific category. Dummy pages are NOT published. Attributes: Full-width page, Weblog set as parent page. All changes can be made in less than 1 hour for all 6 pages as needed.
 
 ## 5/13/2019
 
