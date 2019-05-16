@@ -5,6 +5,12 @@ Date Created: 5/9/2019
 Changes are listed in reverse chronological order, where the most recent changes are seen at the top.
 
 <hr />
+## 5/15/2019
+
+5:47pm
+- Added new maps! Maps are made with icons for travelling. I was quite unsure to add the legend considering that there are so few differing elements. However, new legend can be made upon request, but I would advise against it for the sake of simplicity. The icons make it obvious enough.
+- Two versions were made, one including Sukothai and one without.
+
 ## 5/14/2019
 
 9:28pm
