@@ -23,7 +23,7 @@ This page is to create an update page for anyone that is allowed to see this pag
 
 <hr />
 
-## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented
+~## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented
 
 - Create six discussion pages that link out from this page to separate Weblog pages
 - HTML Colmumn based work to create structure. No borders, embed through CSS style ID
@@ -36,7 +36,7 @@ This page is to create an update page for anyone that is allowed to see this pag
   - 6 Enduring understanding-key takeaways
 - Possible solutions will revolve around HTML/CSS implementation
   - Responsive tables to be formatted well according to viewing device  (phone, tablet, desktop)
-  - Be sure that HTML/CSS does NOT interfere with other classes on the website
+  - Be sure that HTML/CSS does NOT interfere with other classes on the website~
 
 ### Section 2: Thumbnail Video Links; 30 minutes
 
