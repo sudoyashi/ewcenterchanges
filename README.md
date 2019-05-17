@@ -23,7 +23,7 @@ This page is to create an update page for anyone that is allowed to see this pag
 
 <hr />
 
-## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented
+~## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented~
 
 - Create six discussion pages that link out from this page to separate Weblog pages
 - HTML Colmumn based work to create structure. No borders, embed through CSS style ID
@@ -45,7 +45,7 @@ This page is to create an update page for anyone that is allowed to see this pag
 - Resources, 20+ links
 - Media Gallery, 3 links
 
-### Section 3: Map of Thailand Map Update; 30 minutes
+~### Section 3: Map of Thailand Map Update; 30 minutes~
 
 - Color changes for the following P4Y Sites:
   - Bangkok
@@ -55,7 +55,7 @@ This page is to create an update page for anyone that is allowed to see this pag
   - Tachileik
 - Create legend for respective map icons
 
-### Section 4: About Page issues; 1 hour
+~### Section 4: About Page issues; 1 hour~
 
 - Category information is incongruent with other pages, amend information as necessary
 - Remove redundant categories
