@@ -25,19 +25,16 @@ This page is to create an update page for anyone that is allowed to see this pag
 
 ~## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented~
 
-- Create six discussion pages that link out from this page to separate Weblog pages
-- HTML Colmumn based work to create structure. No borders, embed through CSS style ID
-- Six columns:
-  - 1 Self-introductions;
-  - 2 My interest topics;
-  - 3 First Impressions;
-  - 4 Global issues local impacts;
-  - 5 Homestays;
-  - 6 Enduring understanding-key takeaways
-- Possible solutions will revolve around HTML/CSS implementation
-  - Responsive tables to be formatted well according to viewing device  (phone, tablet, desktop)
-  - Be sure that HTML/CSS does NOT interfere with other classes on the website
-
+- ~Create six discussion pages that link out from this page to separate Weblog pages~
+- ~HTML Colmumn based work to create structure. Hardcoded through inline css because no permissions to add custom css~
+- ~Six columns:~
+  - ~1 Self-introductions;~
+  - ~2 My interest topics;~
+  - ~3 First Impressions;~
+  - ~4 Global issues local impacts;~
+  - ~5 Homestays;~
+  - ~6 Enduring understanding-key takeaways~
+  
 ### Section 2: Thumbnail Video Links; 30 minutes
 
 - In-country Program, 6 links
@@ -45,7 +42,7 @@ This page is to create an update page for anyone that is allowed to see this pag
 - Resources, 20+ links
 - Media Gallery, 3 links
 
-~ ### Section 3: Map of Thailand Map Update; 30 minutes~
+~### Section 3: Map of Thailand Map Update; 30 minutes~
 
 - ~Color changes for the following P4Y Sites:~
   - ~Bangkok~
