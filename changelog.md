@@ -6,6 +6,15 @@ Changes are listed in reverse chronological order, where the most recent changes
 
 <hr />
 
+## 5/17/2019
+
+- 7:42am Progressing through "In-Country programs"
+- 3:20pm Progressing through "Global Issues"
+
+
+## 5/16/2019
+- LOTS of links to create thumbnails for... will need more time because I will need to go through a lot more embed code than anticipated
+
 ## 5/15/2019 Revised  excursion map with new color icons
 
 5:47pm
