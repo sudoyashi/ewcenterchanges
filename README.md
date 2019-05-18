@@ -45,21 +45,20 @@ This page is to create an update page for anyone that is allowed to see this pag
 - Resources, 20+ links
 - Media Gallery, 3 links
 
-~### Section 3: Map of Thailand Map Update; 30 minutes~
+~ ### Section 3: Map of Thailand Map Update; 30 minutes~
 
-- Color changes for the following P4Y Sites:
-  - Bangkok
-  - Skhothai
-  - Phrae
-  - Chiang Rai
-  - Tachileik
-- Create legend for respective map icons
+- ~Color changes for the following P4Y Sites:~
+  - ~Bangkok~
+  - ~Sukhothai, replaced with Kanchanburi~ 
+  - ~Phrae~
+  - ~Chiang Rai~
+  - ~Tachileik~
 
 ~### Section 4: About Page issues; 1 hour~
 
-- Category information is incongruent with other pages, amend information as necessary
-- Remove redundant categories
-- Remove contact information, replace with respective email address
+- ~Category information is incongruent with other pages, amend information as necessary~
+- ~Remove redundant categories~
+- ~Remove contact information, replace with respective email address~
 
 ### Section 5: Inserting logos or creating logo placeholders; 20 minutes
 
@@ -74,3 +73,4 @@ Log of work completed:
 - 5/9/2019 // Worklist completed, looking for solutions on Section 1
 - 5/10/2019 // Edited footer with phone and email
 - 5/12/2019 // Drafting for Weblog columns
+- 5/15 to 5/18 // Youtube Links
