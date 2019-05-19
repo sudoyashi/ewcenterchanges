@@ -35,14 +35,14 @@ This page is to create an update page for anyone that is allowed to see this pag
   - ~5 Homestays;~
   - ~6 Enduring understanding-key takeaways~
   
-## ~Section 2: Thumbnail Video Links; 30 minutes~
+## ~Section 2: Thumbnail Video Links; 6 hours~
 
 - ~In-country Program~
 - ~Global Issues Local trends, 9 links~
 - **Resources, 20+ links**
 - ~Media Gallery~
 
-## ~Section 3: Map of Thailand Map Update; 30 minutes~
+## ~Section 3: Map of Thailand Map Update; 2 hours~
 
 - ~Color changes for the following P4Y Sites:~
   - ~Bangkok~
@@ -57,7 +57,7 @@ This page is to create an update page for anyone that is allowed to see this pag
 - ~Remove redundant categories~
 - ~Remove contact information, replace with respective email address~
 
-## Section 5: Inserting logos or creating logo placeholders; 20 minutes
+## Section 5: Inserting logos or creating logo placeholders; 1 hour
 
 - Find and replace missing logos for resource organizations
 
