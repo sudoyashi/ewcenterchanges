@@ -39,7 +39,7 @@ This page is to create an update page for anyone that is allowed to see this pag
 
 - ~In-country Program~
 - ~Global Issues Local trends, 9 links~
-- Resources, 20+ links
+- **Resources, 20+ links**
 - ~Media Gallery~
 
 ## ~Section 3: Map of Thailand Map Update; 30 minutes~
