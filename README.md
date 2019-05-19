@@ -22,8 +22,8 @@ Estimated time is subject to variations due to small roadblocks and site compati
 This page is to create an update page for anyone that is allowed to see this page, as this is a private repository. This page is solely for keeping progress. Tasks will be marked off when completed. Priority is NOT indicative of section number and will be adjusted according to urgency.
 
 <hr />
-
-## Section 1: Weblog discussion section; 2 hours+ depending on solution implemented 
+~
+## ~Section 1: Weblog discussion section; 2 hours+ depending on solution implemented~
 
 - ~Create six discussion pages that link out from this page to separate Weblog pages~
 - ~HTML Colmumn based work to create structure. Hardcoded through inline css because no permissions to add custom css~
@@ -35,14 +35,14 @@ This page is to create an update page for anyone that is allowed to see this pag
   - ~5 Homestays;~
   - ~6 Enduring understanding-key takeaways~
   
-## Section 2: Thumbnail Video Links; 30 minutes
+## ~Section 2: Thumbnail Video Links; 30 minutes~
 
 - ~In-country Program~
-- Global Issues Local trends, 9 links
+- ~Global Issues Local trends, 9 links~
 - Resources, 20+ links
 - ~Media Gallery~
 
-## Section 3: Map of Thailand Map Update; 30 minutes~
+## ~Section 3: Map of Thailand Map Update; 30 minutes~
 
 - ~Color changes for the following P4Y Sites:~
   - ~Bangkok~
@@ -51,7 +51,7 @@ This page is to create an update page for anyone that is allowed to see this pag
   - ~Chiang Rai~
   - ~Tachileik~
 
-## Section 4: About Page issues; 1 hour~
+## ~Section 4: About Page issues; 1 hour~
 
 - ~Category information is incongruent with other pages, amend information as necessary~
 - ~Remove redundant categories~
