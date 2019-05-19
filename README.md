@@ -35,11 +35,14 @@ This page is to create an update page for anyone that is allowed to see this pag
   - ~5 Homestays;~
   - ~6 Enduring understanding-key takeaways~
   
-## ~Section 2: Thumbnail Video Links; 6 hours~
+## Section 2: Thumbnail Video Links; 6 hours
+
+Update 5/19/2019 at 12:24am. 
+Reclarified scope of work, I had missed the detail about which specific thumbnails to create for each of the following pages. Videos will ONLY need thumbnails IF there is text that is explaining them. Task list will now include, remvoing video thumbnails for the items that do not have text, finding a suitable style="height:XXXpx;width:XXXpx", and confirming changes will not be overwritten by inherent WordPress coding.
 
 - ~In-country Program~
 - ~Global Issues Local trends, 9 links~
-- **Resources, 20+ links**
+- **Resources
 - ~Media Gallery~
 
 ## ~Section 3: Map of Thailand Map Update; 2 hours~
