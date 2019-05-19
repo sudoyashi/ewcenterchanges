@@ -22,7 +22,7 @@ Estimated time is subject to variations due to small roadblocks and site compati
 This page is to create an update page for anyone that is allowed to see this page, as this is a private repository. This page is solely for keeping progress. Tasks will be marked off when completed. Priority is NOT indicative of section number and will be adjusted according to urgency.
 
 <hr />
-~
+
 ## ~Section 1: Weblog discussion section; 2 hours+ depending on solution implemented~
 
 - ~Create six discussion pages that link out from this page to separate Weblog pages~
