@@ -5,12 +5,19 @@ Date Created: 5/9/2019
 Changes are listed in reverse chronological order, where the most recent changes are seen at the top.
 
 <hr />
+
 ## 5/22/2019
+
+### Thailand
 
 - **Resources**: Updated video thumbnail sizes for "Dos and Donts; Global Competence"
 - **Global Issues Local Trends**: Updated Video Thumbnail Size for "China Silk road..."
 - **Media Gallery**: Updated thumbnails
+- **Travel Info**: Uploaded both versions of travel map. v1 is without Kanchanburi, v2 is with. The posted version will be v1, until further notice
 
+### IUCN
+- **Unable to remove Eco-Stewards**, I don't have the permissions to remove menu items. If I try to "unpublish" the specific section, the link takes you to an error page. For now, I am not touching it for the sake of not having any errors.
+- Removed comment sections of "Opportunities" pages
 
 ## 5/19/2019
 
