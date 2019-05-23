@@ -5,6 +5,16 @@ Date Created: 5/9/2019
 Changes are listed in reverse chronological order, where the most recent changes are seen at the top.
 
 <hr />
+## 5/22/2019
+
+- **Resources**: Updated video thumbnail sizes for "Dos and Donts; Global Competence"
+- **Global Issues Local Trends**: Updated Video Thumbnail Size for "China Silk road..."
+- **Media Gallery**: Updated thumbnails
+
+
+## 5/19/2019
+
+- Meeting follow-up. Changes agreed upon and will be implementing over the next few days. Waiting on updated photos for each section from "Weblog"
 
 ## 5/17/2019
 
